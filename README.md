@@ -1,183 +1,111 @@
 
 <a href="#"><img align="left" alt="React" width="100%" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/></a>
+<h1 align="center">Hi 👋, I'm Rajabov Doston</h1>
+<h3 align="center">A front end engineer from Uzbekistan</h3>
 
-<img src="https://raw.githubusercontent.com/Anon23261/Anon23261/main/assets/matrix.gif" width="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimaazarshad&label=Profile%20views&color=0e75b6&style=flat" alt="qazimaazarshad" /> </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Security+Research+Expert;Low+Level+Systems+Engineer;Kernel+Development+Specialist" alt="Typing SVG" />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qazimaazarshad" alt="qazimaazarshad" /></a> </p>
 
-<h1> 💫 About Me 👨‍💻 </h1>
+<img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-<h3>
-  
-  - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
-  
-  - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
-  
-</h3>
+- 🌱 I’m currently learning **Software Development**
 
-<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-<br/><br/>
+- 👨‍💻 All of my projects are available at [https://portofolio-v2-one.vercel.app/]([https://qazimaazarshad.github.io/My-Portfolio/](https://portofolio-v2-one.vercel.app/))
 
+- 💬 Ask me about **Full Stack Development**
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
-
-
-### Languages
-
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-
-<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
-
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
-
-<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/solidity.svg" /></a>
-
-<a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/golang.svg" /></a>
-
-<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/rust.svg" /></a>
-
-<br/><br/>
-
-
-### Libraries
-
-<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-
-<a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
-
-<a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
-
-<a href="https://threejs.org/" target="_blank"><img align="left" alt="Three.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/three.js.svg" /></a>
-
-<a href="https://docs.web3js.org/" target="_blank"><img align="left" alt="Web3.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/web3.js.png" /></a>
-
-<a href="https://docs.ethers.org/v5/" target="_blank"><img align="left" alt="etherjs" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/etherjs.png" /></a>
-
-<a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-
-<br/><br/>
+- 📫 How to reach me **rajabovdost@gmail.com**
 
 
 
-### Frameworks
-<a href="https://hardhat.org/" target="_blank"><img align="left" alt="Hardhat" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/hardhat.svg" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://qazimaazarshad.github.io/My-Portfolio/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/monster.svg" alt="portfolio" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/qazi-maaz-arshad" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gfg" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/15159026/qazi-maaz-arshad" target="_blank"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://fb.com/qazimaaz.arshad.3" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/qazimaazarshad/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/qazimaazarshad" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="qazimaazarshad" height="30" width="30" /></a>
+</p>
 
-<a href="https://archive.trufflesuite.com/" target="_blank"><img align="left" alt="Truffle" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/truffle.png" /></a>
-
-<a href="https://cosmwasm.com/" target="_blank"><img align="left" alt="Cosmwasm" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/cosmwasm.jfif" /></a>
-
-<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
-
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
-
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-
-<a href="https://angular.dev/" target="_blank"><img align="left" alt="Angular" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
-
-<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
-
-<br/><br/>
-
-
-### Database
-
-<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
-
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
-
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
-
-<br/><br/>
-
-
-### Tools
-<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
-
-<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
-
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
-
-<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
-
-<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /><br/></a>
-
-<br/><br/>
-
-<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-
-
-<div style="display: flex; align-items: center">
-  
-  <h1> 
-    My GitHub Stats 
-    <a href="#-my-github-stats--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
-    </a>
-    
-  </h1>
-  
-</div>
-
-
-<table align="center">
+<h3 align="left">Tech stack and Tools:</h3>
+<table>
   <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Kula529&theme=dark&hide_border=true&border_radius=9.4&ring=3A0CA3&fire=D62828&dates=00F5D4&sideLabels=FFC300&stroke=8338EC&currStreakLabel=FFC300" alt="Kula529" /></a>
+    <td>
+      <strong>DSA Programming Language:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </td>
-    <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=HighAmbition211&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="HighAmbition211" /></a>
+    <td>
+      <strong>Frontend Technologies:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    </td>
+    <td>
+      <strong>Backend Technologies:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Database:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </td>
+    <td>
+      <strong>Data Analysis:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
+      <img src="https://cdn.cdnlogo.com/logos/m/53/microsoft-excel.svg" alt="Excel" width="40" height="40"/>
+      <img src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+    </td>
+    <td>
+      <strong>Tools:</strong><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
+      <img src="https://cdn.cdnlogo.com/logos/e/57/eclipse.svg" alt="Eclipse" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+      <img src="https://cdn.cdnlogo.com/logos/b/74/bitbucket-icon.svg" alt="BitBucket" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </td>
   </tr>
 </table>
 
+<!-- GitHub Stats and Streak Stats -->
+<table>
+  <tr>
+    <td>
+      <p><img src="https://github-readme-stats.vercel.app/api?username=qazimaazarshad&show_icons=true&locale=en" alt="qazimaazarshad" /></p>
+    </td>
+    <td>
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=qazimaazarshad&" alt="qazimaazarshad" /></p>
+    </td>
+  </tr>
+</table>
 
-<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
-
-
-<h2>
-  If you found this project useful or interesting, please consider giving it a 
-  
-  <a href="https://github.com/HighAmbition211/HighAmbition211/#">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> Star
-  </a>.
-  
-  If you'd like to use this template, feel free to 
-  
-  <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
-    Fork
-  </a> 
-  
-  it and customize it to your needs!
-  
-</h2> 
-
-<p align="center">
-<img src="assets/loficity.gif" alt="Lofi Nightlife city scene" />
-</p>
-
-<img src="assets/borderseperator.gif">
-
-<h3 align="center">Conecte-se Comigo</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/brian-muniz-silveira/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://github.com/BrianMunizSilveira" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:brian.muniz.silveira@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
-  </a> &nbsp;&nbsp;
-  </a>
-</p>
-
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
-
+<!-- GitHub Profile Summary Cards -->
+<table>
+  <tr>
+    <td>
+      <!-- Repos per Language Card -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qazimaazarshad&theme=default" alt="Repos per Language Card" />
+    </td>
+    <td>
+      <!-- Most Commit Language Card -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimaazarshad&theme=default" alt="Most Commit Language Card" />
+    </td>
+    <td>
+      <!-- Most Used Language Card -->
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazimaazarshad&show_icons=true&locale=en&layout=compact" alt="Most Used Language Card" />
+    </td>
+  </tr>
+</table>
